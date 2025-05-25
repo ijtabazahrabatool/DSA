@@ -1,4 +1,4 @@
-package com.ijtaba.recursion;
+package com.ijtaba.simpleRecursion;
 
 import java.util.Scanner;
 

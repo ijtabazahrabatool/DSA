@@ -1,4 +1,4 @@
-package com.ijtaba.recursion;
+package com.ijtaba.simpleRecursion;
 
 public class CountNoOfSteps {
     public static int NumberOfSteps(int n) {

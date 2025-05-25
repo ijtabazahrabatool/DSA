@@ -1,4 +1,4 @@
-package com.ijtaba.recursion;
+package com.ijtaba.simpleRecursion;
 
 public class ReverseNumber {
 //    private int  reverse(int n , int sum){
